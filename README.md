@@ -1,5 +1,5 @@
 # DUT-Video-Stabilization
-
+![image](https://github.com/btxviny/DUT-Video-Stabilization/blob/main/image.png)
 This my implementation of the paper [DUT:Learning Video Stabilization By Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574.pdf).
 It requires less GPU memory than the [original](https://github.com/Annbless/DUTCode) repository. I  use the [RAFT](https://arxiv.org/abs/2003.12039) optical flow estimator which requires no custom layers as opposed to PWCNet and I also provide an alternative warping method which achieves the same stability scores with less black borders. The warping method is based on [PCA-Flow](http://openaccess.thecvf.com/content_cvpr_2015/papers/Wulff_Efficient_Sparse-to-Dense_Optical_2015_CVPR_paper.pdf).
 
