@@ -1,4 +1,4 @@
-# DUT-Video-Stabilization
+#Inference of  DUT-Video-Stabilization
 ![image](https://github.com/btxviny/DUT-Video-Stabilization/blob/main/image.png).
 
 This my implementation of the paper [DUT:Learning Video Stabilization By Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574.pdf).
